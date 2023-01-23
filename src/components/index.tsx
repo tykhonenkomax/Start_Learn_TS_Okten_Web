@@ -1,2 +1,5 @@
-export * from './Cars/Cars'
-export * from './Car/Car'
+export * from './Cars'
+export * from './Car'
+export * from './layouts'
+export * from './Pages'
+export * from './CarForm'
